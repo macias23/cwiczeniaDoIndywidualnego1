@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06cedea3-6c49-4a2c-b309-e7397f538623" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZadaniaPodIndywidualne.iml" afterDir="false" />
+    <list default="true" id="06cedea3-6c49-4a2c-b309-e7397f538623" name="Changes" comment="zmiana w gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +65,30 @@
       <option name="presentableId" value="Default" />
       <updated>1669629000026</updated>
       <workItem from="1669629001187" duration="3303000" />
-      <workItem from="1669647859411" duration="4101000" />
+      <workItem from="1669647859411" duration="4434000" />
     </task>
+    <task id="LOCAL-00001" summary="dodawanie Pisemne">
+      <created>1669652458075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669652458075</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dodawanie Pisemne">
+      <created>1669652485041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669652485041</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zmiana w gitignore">
+      <created>1669652555554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669652555554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +104,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dodawanie Pisemne" />
+    <MESSAGE value="zmiana w gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="zmiana w gitignore" />
   </component>
 </project>
