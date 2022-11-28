@@ -69,6 +69,6 @@ public class Kreska {
     }
 
     public static void main(String[] args) {
-        dodawaniePisemne(9712,10234);
+        dodawaniePisemne(9712,9900910234);
     }
 }
