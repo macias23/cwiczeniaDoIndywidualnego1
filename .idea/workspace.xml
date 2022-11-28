@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06cedea3-6c49-4a2c-b309-e7397f538623" name="Changes" comment="zmiana w gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kreska.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kreska.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669629000026</updated>
       <workItem from="1669629001187" duration="3303000" />
-      <workItem from="1669647859411" duration="4434000" />
+      <workItem from="1669647859411" duration="4972000" />
     </task>
     <task id="LOCAL-00001" summary="dodawanie Pisemne">
       <created>1669652458075</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669652555554</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="zmiana w gitignore">
+      <created>1669652643249</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669652643249</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
