@@ -23,7 +23,7 @@ public class Kreska {
         }
         aSb.reverse();
         bSb.reverse();
-        List wynik=new ArrayList<>();
+        ArrayList wynik=new ArrayList<>();
         int przeniesienie=0;
         for (int i = 0; i <aSb.length(); i++) {
             int liczbaA= Integer.parseInt(String.valueOf(aSb.charAt(i)));
